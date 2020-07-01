@@ -23,7 +23,7 @@
     <!-- driver config -->
     <driver.groupId>mysql</driver.groupId>
     <driver.artifactId>mysql-connector-java</driver.artifactId>
-	<driver.version>5.1.18</driver.version>
+	<driver.version>8.0.16</driver.version>
 		
     <!-- dependcy config -->
     <version.project.spring>4.0.2.RELEASE</version.project.spring>

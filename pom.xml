@@ -28,7 +28,7 @@
     <!-- dependcy config -->
     <version.project.spring>4.0.2.RELEASE</version.project.spring>
     <version.project.spring.data.jpa>1.8.0.RELEASE</version.project.spring.data.jpa>
-	<version.project.junit>4.11</version.project.junit>
+	<version.project.junit>4.13.1</version.project.junit>
 	<version.project.dbcp>1.4</version.project.dbcp>
 	<version.project.hibernate>3.6.10.Final</version.project.hibernate>
 	<version.project.hibernate.jpa>1.0.1.Final</version.project.hibernate.jpa> 	

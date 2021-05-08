@@ -37,7 +37,7 @@
   	<version.project.log4j>1.2.12</version.project.log4j>
  	<version.project.mybatis.spring>1.2.2</version.project.mybatis.spring>
   	<version.project.mybatis>3.2.8</version.project.mybatis>
-	<version.project.shiro>1.2.3</version.project.shiro>
+	<version.project.shiro>1.6.0</version.project.shiro>
 	<version.project.jackson>2.5.3</version.project.jackson>
 	
   </properties>
